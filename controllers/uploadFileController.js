@@ -10,6 +10,6 @@ exports.uploadFile = (req, res) => {
   return res.json({
     message: "File uploaded successfully.",
     filename: req.file.filename,
-    url: `/uploads/${req.file.filename}`,
+    url: `uploads/${req.file.filename}`,
   });
 };

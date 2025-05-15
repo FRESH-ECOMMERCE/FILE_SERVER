@@ -6,7 +6,7 @@ const { uploadMiddleware } = require("../middlewares/multerConfig");
 
 const router = express.Router();
 
-router.post("/upload", authenticateToken, uploadMiddleware, uploadFile);
-router.delete("/upload/:filename", authenticateToken, deleteFile);
+router.post("/uploads", authenticateToken, uploadMiddleware, uploadFile);
+router.delete("/uploads/:filename", authenticateToken, deleteFile);
 
 module.exports = router;

@@ -11,7 +11,7 @@ const app = express();
 const PORT = appConfigs.port;
 
 app.use(cors());
-app.use("/uploads", express.static("uploads"));
+app.use("/api/uploads", express.static("uploads"));
 app.use("/api-docs", swaggerUi.serve, swaggerUi.setup(swaggerDocs));
 app.use("/api", uploadRoutes);
 
