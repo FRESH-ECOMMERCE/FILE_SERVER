@@ -15,6 +15,10 @@ app.use("/api/uploads", express.static("uploads"));
 app.use("/api-docs", swaggerUi.serve, swaggerUi.setup(swaggerDocs));
 app.use("/api", uploadRoutes);
 
-app.listen(PORT, () => {
-  logger.info(`Server running at http://localhost:${PORT}`);
-});
+if (!module.parent) {
+  app.listen(PORT, () => {
+    logger.info(`Server running at http://localhost:${PORT}`);
+  });
+}
+
+exports.default = app;
