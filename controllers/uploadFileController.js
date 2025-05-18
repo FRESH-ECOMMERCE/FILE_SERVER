@@ -1,4 +1,3 @@
-const appConfigs = require("../configs/appConfigs");
 const { fileSchema } = require("../validations/fileValidation");
 const { StatusCodes } = require("http-status-codes");
 
