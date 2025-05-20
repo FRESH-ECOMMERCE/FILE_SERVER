@@ -6,6 +6,6 @@ exports.fileSchema = Joi.object({
     .valid("image/jpeg", "image/png", "application/pdf")
     .required(),
   size: Joi.number()
-    .max(5 * 1024 * 1024)
+    .max(2 * 1024 * 1024)
     .required(),
 }).unknown();
