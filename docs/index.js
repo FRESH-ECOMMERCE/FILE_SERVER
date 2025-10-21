@@ -1,6 +1,6 @@
 /**
  * @swagger
- * /api/uploads:
+ * /file-server/api/uploads:
  *   post:
  *     summary: Upload a file
  *     tags:
