@@ -28,9 +28,11 @@ app.use(
     cors({
         origin: '*',
         methods: ['GET', 'POST', 'PUT', 'DELETE', 'PATCH', 'OPTIONS'],
-        allowedHeaders: ['Content-Type', 'Authorization'],
+        allowedHeaders: ['Content-Type', 'Authorization', 'x-api-key'],
     })
 );
+
+app.options('*', cors());
 
 app.use('/api/uploads', express.static('uploads'));
 
