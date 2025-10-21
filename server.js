@@ -12,27 +12,13 @@ const PORT = appConfigs.port;
 app.use(express.json());
 app.use(express.urlencoded({ extended: true }));
 
-app.use((req, res, next) => {
-    res.header('Access-Control-Allow-Origin', '*'); // allow all origins
-    res.header('Access-Control-Allow-Methods', 'GET, POST, PUT, DELETE, PATCH, OPTIONS');
-    res.header('Access-Control-Allow-Headers', 'Content-Type, Authorization, X-Requested-With');
-
-    if (req.method === 'OPTIONS') {
-        return res.sendStatus(200);
-    }
-
-    next();
-});
-
 app.use(
     cors({
-        origin: '*',
+        origin: ['https://fresh-admin.web.app'],
         methods: ['GET', 'POST', 'PUT', 'DELETE', 'PATCH', 'OPTIONS'],
         allowedHeaders: ['Content-Type', 'Authorization', 'x-api-key'],
     })
 );
-
-app.options('*', cors());
 
 app.use('/api/uploads', express.static('uploads'));
 
