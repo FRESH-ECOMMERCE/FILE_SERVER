@@ -1,6 +1,6 @@
 /**
  * @swagger
- * /api/upload:
+ * /api/uploads:
  *   post:
  *     summary: Upload a file
  *     tags:
@@ -35,7 +35,7 @@
 
 /**
  * @swagger
- * /api/upload/{filename}:
+ * /api/uploads/{filename}:
  *   delete:
  *     summary: Delete uploaded file
  *     tags:
