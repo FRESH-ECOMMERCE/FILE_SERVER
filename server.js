@@ -5,6 +5,7 @@ const swaggerDocs = require('./configs/swaggerCofigs');
 const logger = require('./utils/logger');
 const uploadRoutes = require('./routes/uploadRoutes');
 const appConfigs = require('./configs/appConfigs');
+require('./models');
 
 const app = express();
 const PORT = appConfigs.port;
@@ -14,7 +15,11 @@ app.use(express.urlencoded({ extended: true }));
 
 app.use(
     cors({
-        origin: ['https://fresh-admin.web.app', 'http://localhost:5173'],
+        origin: [
+            'https://fresh-admin.web.app',
+            'http://localhost:5173',
+            'https://fresh-inventori.web.app',
+        ],
         methods: ['GET', 'POST', 'PUT', 'DELETE', 'PATCH', 'OPTIONS'],
         allowedHeaders: ['Content-Type', 'Authorization', 'x-api-key'],
     })
