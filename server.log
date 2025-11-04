@@ -21,3 +21,72 @@ info: File deleted: d7b4ee15ab16ae7b99312be1a7abf97e.png {"timestamp":"2025-10-2
 info: Server running at http://localhost:3000 {"timestamp":"2025-10-28T03:22:44.878Z"}
 info: Server running at http://localhost:3000 {"timestamp":"2025-10-28T07:57:32.515Z"}
 info: Server running at http://localhost:3000 {"timestamp":"2025-10-28T13:13:43.155Z"}
+info: Server running at http://localhost:3000 {"timestamp":"2025-11-03T10:30:35.920Z"}
+info: Server running at http://localhost:3000 {"timestamp":"2025-11-03T13:56:48.589Z"}
+info: Server running at http://localhost:3000 {"timestamp":"2025-11-03T13:56:50.413Z"}
+info: Server running at http://localhost:3000 {"timestamp":"2025-11-03T13:57:56.496Z"}
+info: Server running at http://localhost:3000 {"timestamp":"2025-11-03T15:08:59.291Z"}
+info: Server running at http://localhost:3000 {"timestamp":"2025-11-03T15:09:07.213Z"}
+info: Server running at http://localhost:3000 {"timestamp":"2025-11-03T15:10:55.357Z"}
+info: Server running at http://localhost:3000 {"timestamp":"2025-11-03T15:11:15.425Z"}
+info: Server running at http://localhost:3000 {"timestamp":"2025-11-03T15:11:38.564Z"}
+info: Server running at http://localhost:3000 {"timestamp":"2025-11-03T15:12:03.959Z"}
+info: Server running at http://localhost:3000 {"timestamp":"2025-11-04T00:08:57.518Z"}
+info: Server running at http://localhost:3000 {"timestamp":"2025-11-04T00:11:35.661Z"}
+info: Server running at http://localhost:3000 {"timestamp":"2025-11-04T00:12:07.011Z"}
+info: Server running at http://localhost:3000 {"timestamp":"2025-11-04T00:12:18.592Z"}
+info: Server running at http://localhost:3000 {"timestamp":"2025-11-04T00:13:35.242Z"}
+info: Server running at http://localhost:3000 {"timestamp":"2025-11-04T00:13:43.111Z"}
+info: Server running at http://localhost:3000 {"timestamp":"2025-11-04T00:13:47.521Z"}
+info: Server running at http://localhost:3000 {"timestamp":"2025-11-04T00:14:43.567Z"}
+info: Server running at http://localhost:3000 {"timestamp":"2025-11-04T00:14:55.015Z"}
+info: Server running at http://localhost:3000 {"timestamp":"2025-11-04T00:15:52.423Z"}
+info: Server running at http://localhost:3000 {"timestamp":"2025-11-04T00:17:12.319Z"}
+info: Server running at http://localhost:3000 {"timestamp":"2025-11-04T00:17:53.802Z"}
+info: Server running at http://localhost:3000 {"timestamp":"2025-11-04T00:18:25.249Z"}
+info: Server running at http://localhost:3000 {"timestamp":"2025-11-04T00:20:11.660Z"}
+info: Server running at http://localhost:3000 {"timestamp":"2025-11-04T00:20:15.972Z"}
+info: Server running at http://localhost:3000 {"timestamp":"2025-11-04T00:22:35.085Z"}
+info: Server running at http://localhost:3000 {"timestamp":"2025-11-04T00:24:53.356Z"}
+info: Server running at http://localhost:3000 {"timestamp":"2025-11-04T00:24:59.645Z"}
+info: Server running at http://localhost:3000 {"timestamp":"2025-11-04T00:25:04.144Z"}
+info: Server running at http://localhost:3000 {"timestamp":"2025-11-04T00:25:08.237Z"}
+error: Delete failed: Unknown column 'filename' in 'where clause' {"timestamp":"2025-11-04T00:25:26.734Z"}
+info: Server running at http://localhost:3000 {"timestamp":"2025-11-04T00:25:57.528Z"}
+info: Server running at http://localhost:3000 {"timestamp":"2025-11-04T00:28:46.131Z"}
+info: File deleted: c4b26cf35587b3426ca430cdb28e1c1e.png {"timestamp":"2025-11-04T00:30:12.673Z"}
+info: Server running at http://localhost:3000 {"timestamp":"2025-11-04T01:26:07.649Z"}
+info: Server running at http://localhost:3000 {"timestamp":"2025-11-04T01:27:35.651Z"}
+info: Server running at http://localhost:3000 {"timestamp":"2025-11-04T01:28:43.459Z"}
+info: Server running at http://localhost:3000 {"timestamp":"2025-11-04T01:29:48.288Z"}
+info: Server running at http://localhost:3000 {"timestamp":"2025-11-04T01:30:05.158Z"}
+info: Server running at http://localhost:3000 {"timestamp":"2025-11-04T01:30:58.263Z"}
+info: Server running at http://localhost:3000 {"timestamp":"2025-11-04T01:32:15.028Z"}
+info: Server running at http://localhost:3000 {"timestamp":"2025-11-04T01:33:33.023Z"}
+info: Server running at http://localhost:3000 {"timestamp":"2025-11-04T01:33:46.418Z"}
+info: File deleted: .jpeg-applw.jpeg {"timestamp":"2025-11-04T01:36:19.635Z"}
+info: File deleted: CA4WEB-d3cd1f734fe632a22107b40b9ac707c3.png {"timestamp":"2025-11-04T01:36:39.397Z"}
+info: Server running at http://localhost:3000 {"timestamp":"2025-11-04T03:18:23.794Z"}
+info: Server running at http://localhost:3000 {"timestamp":"2025-11-04T03:21:28.608Z"}
+info: Server running at http://localhost:3000 {"timestamp":"2025-11-04T03:21:33.543Z"}
+info: Server running at http://localhost:3000 {"timestamp":"2025-11-04T03:22:08.858Z"}
+info: Server running at http://localhost:3000 {"timestamp":"2025-11-04T03:23:18.720Z"}
+info: Server running at http://localhost:3000 {"timestamp":"2025-11-04T03:23:36.575Z"}
+info: Server running at http://localhost:3000 {"timestamp":"2025-11-04T03:27:53.827Z"}
+info: Server running at http://localhost:3000 {"timestamp":"2025-11-04T04:37:06.860Z"}
+info: Server running at http://localhost:3000 {"timestamp":"2025-11-04T04:58:25.600Z"}
+info: Server running at http://localhost:3000 {"timestamp":"2025-11-04T04:58:36.232Z"}
+info: Server running at http://localhost:3000 {"timestamp":"2025-11-04T04:58:46.345Z"}
+info: File deleted: ai-asistent-arsitektur-000af7d55412cb73e0dc4efe29b462da.png {"timestamp":"2025-11-04T05:00:55.117Z"}
+info: File deleted: iot-ta-arsitektur-3dbf4f5ac0114d14694fe9f4ddaabee6.png {"timestamp":"2025-11-04T05:00:58.121Z"}
+info: File deleted: iot-ta-with-llm-1762232370888.png {"timestamp":"2025-11-04T05:01:00.833Z"}
+info: File deleted: iot-ta-with-llm-1762232340197.png {"timestamp":"2025-11-04T05:01:04.430Z"}
+info: File deleted: aiasistent-arsitektur-1762233226506.png {"timestamp":"2025-11-04T05:14:56.909Z"}
+info: File deleted: aiasistent-arsitektur-1f32dc14f0463c75a2458b17219692cb.png {"timestamp":"2025-11-04T05:21:53.768Z"}
+info: File deleted: iot-ta-arsitektur-no-llm.png.png {"timestamp":"2025-11-04T05:21:59.374Z"}
+info: File deleted: no-pictures_3875433-10dc76bb8703a1793666d856e8fd77e3.png {"timestamp":"2025-11-04T05:32:54.721Z"}
+info: File deleted: 87fc7dc108761fb2dd6d69ac016ef62fno-image_11434864.png {"timestamp":"2025-11-04T05:38:46.720Z"}
+info: File deleted: close-up-delicious-apple_23-2151868338-0050627f6b3038594c8e71c3c3c75953.jpg {"timestamp":"2025-11-04T05:39:03.830Z"}
+info: File deleted: 254365aa77acec65fd5194d298055f99.png {"timestamp":"2025-11-04T05:39:32.076Z"}
+warn: Blocked upload: Unsupported MIME type image/webp {"timestamp":"2025-11-04T05:44:39.820Z"}
+error: Upload failed: Invalid file type {"timestamp":"2025-11-04T05:44:39.822Z"}

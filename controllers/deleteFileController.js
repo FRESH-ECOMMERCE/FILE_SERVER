@@ -4,18 +4,17 @@ const { StatusCodes } = require('http-status-codes');
 const ResponseData = require('../utils/response');
 const appConfigs = require('../configs/appConfigs');
 const logger = require('../utils/logger');
+const { FileStorage } = require('../models');
 
-exports.deleteFile = (req, res) => {
+exports.deleteFile = async (req, res) => {
     try {
-        console.log('1SDsd');
-
         const { filename } = req.params;
         const filePath = path.join(appConfigs.uploadDir, filename);
 
-        console.log('SDsd');
-
         if (fs.existsSync(filePath)) {
             fs.unlinkSync(filePath);
+
+            await FileStorage.destroy({ where: { name: filename } });
             logger.info(`File deleted: ${filename}`);
         }
 
