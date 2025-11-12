@@ -9,7 +9,7 @@ exports.uploadFile = async (req, res) => {
     await FileStorage.create({ name: req.file.filename });
 
     return res.json({
-        message: 'File uploaded successfully.',
+        message: `File uploaded successfully.`,
         url: req.file.filename,
     });
 };

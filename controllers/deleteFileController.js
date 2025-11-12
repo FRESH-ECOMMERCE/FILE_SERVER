@@ -22,7 +22,7 @@ exports.deleteFile = async (req, res) => {
             .status(StatusCodes.OK)
             .json(ResponseData.success('File deleted successfully', { filename }));
     } catch (error) {
-        logger.error(`Delete failed: ${error.message}`);
+        logger.error(`[DeleteFileController]: ${error.message}`);
         return res
             .status(StatusCodes.INTERNAL_SERVER_ERROR)
             .json(ResponseData.error('Internal server error'));
