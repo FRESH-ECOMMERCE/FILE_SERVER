@@ -90,3 +90,150 @@ info: File deleted: close-up-delicious-apple_23-2151868338-0050627f6b3038594c8e7
 info: File deleted: 254365aa77acec65fd5194d298055f99.png {"timestamp":"2025-11-04T05:39:32.076Z"}
 warn: Blocked upload: Unsupported MIME type image/webp {"timestamp":"2025-11-04T05:44:39.820Z"}
 error: Upload failed: Invalid file type {"timestamp":"2025-11-04T05:44:39.822Z"}
+info: Server running at http://localhost:3000 {"timestamp":"2025-11-12T02:07:40.741Z"}
+info: Server running at http://localhost:3000 {"timestamp":"2025-11-12T02:08:29.222Z"}
+info: Server running at http://localhost:3000 {"timestamp":"2025-11-12T02:14:11.206Z"}
+info: Server running at http://localhost:3000 {"timestamp":"2025-11-12T02:14:55.999Z"}
+info: Server running at http://localhost:3000 {"timestamp":"2025-11-12T02:15:05.775Z"}
+info: Server running at http://localhost:3000 {"timestamp":"2025-11-12T03:04:03.088Z"}
+error: Delete failed: The "path" argument must be of type string. Received undefined {"timestamp":"2025-11-12T03:04:12.951Z"}
+info: Server running at http://localhost:3000 {"timestamp":"2025-11-12T03:10:10.157Z"}
+info: Server running at http://localhost:3000 {"timestamp":"2025-11-12T03:12:26.200Z"}
+info: Server running at http://localhost:3000 {"timestamp":"2025-11-12T03:13:08.316Z"}
+info: Server running at http://localhost:3000 {"timestamp":"2025-11-12T03:13:57.698Z"}
+info: Server running at http://localhost:3000 {"timestamp":"2025-11-12T03:15:15.367Z"}
+info: Server running at http://localhost:3000 {"timestamp":"2025-11-12T03:15:24.050Z"}
+info: Server running at http://localhost:3000 {"timestamp":"2025-11-12T03:16:29.457Z"}
+info: Server running at http://localhost:3000 {"timestamp":"2025-11-12T03:16:56.204Z"}
+error: nameWithoutExt is not defined {"timestamp":"2025-11-12T03:17:13.650Z"}
+error: nameWithoutExt is not defined {"timestamp":"2025-11-12T03:17:24.701Z"}
+info: Server running at http://localhost:3000 {"timestamp":"2025-11-12T03:17:43.833Z"}
+info: Server running at http://localhost:3000 {"timestamp":"2025-11-12T03:18:35.505Z"}
+info: Server running at http://localhost:3000 {"timestamp":"2025-11-12T03:19:36.490Z"}
+info: Server running at http://localhost:3000 {"timestamp":"2025-11-12T03:22:26.153Z"}
+info: Server running at http://localhost:3000 {"timestamp":"2025-11-12T03:22:34.037Z"}
+error: path.basename.startsWith is not a function {"timestamp":"2025-11-12T03:22:42.173Z"}
+info: Server running at http://localhost:3000 {"timestamp":"2025-11-12T03:23:17.201Z"}
+info: Server running at http://localhost:3000 {"timestamp":"2025-11-12T03:23:46.044Z"}
+info: Server running at http://localhost:3000 {"timestamp":"2025-11-12T03:24:24.905Z"}
+info: Server running at http://localhost:3000 {"timestamp":"2025-11-12T03:24:53.369Z"}
+info: Server running at http://localhost:3000 {"timestamp":"2025-11-12T03:24:56.572Z"}
+info: Server running at http://localhost:3000 {"timestamp":"2025-11-12T03:25:53.047Z"}
+info: Server running at http://localhost:3000 {"timestamp":"2025-11-12T03:26:27.949Z"}
+info: Server running at http://localhost:3000 {"timestamp":"2025-11-12T03:28:03.185Z"}
+info: Server running at http://localhost:3000 {"timestamp":"2025-11-12T03:28:45.698Z"}
+info: Server running at http://localhost:3000 {"timestamp":"2025-11-12T03:29:31.695Z"}
+info: Server running at http://localhost:3000 {"timestamp":"2025-11-12T03:29:41.496Z"}
+info: Server running at http://localhost:3000 {"timestamp":"2025-11-12T03:29:58.142Z"}
+info: Server running at http://localhost:3000 {"timestamp":"2025-11-12T03:30:56.370Z"}
+info: Server running at http://localhost:3000 {"timestamp":"2025-11-12T03:30:58.587Z"}
+info: Server running at http://localhost:3000 {"timestamp":"2025-11-12T03:31:08.011Z"}
+info: Server running at http://localhost:3000 {"timestamp":"2025-11-12T04:15:25.109Z"}
+error: path is not defined {"timestamp":"2025-11-12T04:15:31.559Z"}
+info: Server running at http://localhost:3000 {"timestamp":"2025-11-12T04:16:44.776Z"}
+error: path is not defined {"timestamp":"2025-11-12T04:16:50.659Z"}
+info: Server running at http://localhost:3000 {"timestamp":"2025-11-12T04:17:15.273Z"}
+error: path is not defined {"timestamp":"2025-11-12T04:17:17.461Z"}
+info: Server running at http://localhost:3000 {"timestamp":"2025-11-12T04:18:24.004Z"}
+info: Server running at http://localhost:3000 {"timestamp":"2025-11-12T04:18:49.063Z"}
+error: path is not defined {"timestamp":"2025-11-12T04:19:36.661Z"}
+info: Server running at http://localhost:3000 {"timestamp":"2025-11-12T04:20:35.312Z"}
+error: path is not defined {"timestamp":"2025-11-12T04:20:38.566Z"}
+info: Server running at http://localhost:3000 {"timestamp":"2025-11-12T04:21:23.780Z"}
+error: savedFiles is not defined {"timestamp":"2025-11-12T04:21:34.166Z"}
+info: Server running at http://localhost:3000 {"timestamp":"2025-11-12T04:25:30.936Z"}
+info: Server running at http://localhost:3000 {"timestamp":"2025-11-12T04:25:38.369Z"}
+error: savedFiles is not defined {"timestamp":"2025-11-12T04:25:52.409Z"}
+error: savedFiles is not defined {"timestamp":"2025-11-12T04:26:22.741Z"}
+info: Server running at http://localhost:3000 {"timestamp":"2025-11-12T04:27:11.808Z"}
+info: Server running at http://localhost:3000 {"timestamp":"2025-11-12T04:27:21.358Z"}
+error: [UploadController]: savedFiles is not defined {"timestamp":"2025-11-12T04:27:31.957Z"}
+info: Server running at http://localhost:3000 {"timestamp":"2025-11-12T04:28:02.809Z"}
+info: Server running at http://localhost:3000 {"timestamp":"2025-11-12T04:28:21.638Z"}
+info: Server running at http://localhost:3000 {"timestamp":"2025-11-12T04:28:34.140Z"}
+info: Server running at http://localhost:3000 {"timestamp":"2025-11-12T04:29:06.932Z"}
+info: Server running at http://localhost:3000 {"timestamp":"2025-11-12T04:29:43.780Z"}
+info: Server running at http://localhost:3000 {"timestamp":"2025-11-12T04:29:49.737Z"}
+info: Server running at http://localhost:3000 {"timestamp":"2025-11-12T04:30:12.358Z"}
+info: Server running at http://localhost:3000 {"timestamp":"2025-11-12T04:30:32.790Z"}
+info: Server running at http://localhost:3000 {"timestamp":"2025-11-13T13:06:26.542Z"}
+info: Server running at http://localhost:3000 {"timestamp":"2025-11-13T13:07:27.079Z"}
+info: Server running at http://localhost:3000 {"timestamp":"2025-11-13T13:11:20.170Z"}
+info: Server running at http://localhost:3000 {"timestamp":"2025-11-13T13:15:07.437Z"}
+info: Server running at http://localhost:3000 {"timestamp":"2025-11-13T13:15:11.328Z"}
+info: Server running at http://localhost:3000 {"timestamp":"2025-11-13T13:15:23.547Z"}
+info: Server running at http://localhost:3000 {"timestamp":"2025-11-13T13:15:34.811Z"}
+info: Server running at http://localhost:3000 {"timestamp":"2025-11-13T13:16:41.082Z"}
+info: Server running at http://localhost:3000 {"timestamp":"2025-11-13T13:16:52.661Z"}
+info: Server running at http://localhost:3000 {"timestamp":"2025-11-13T13:17:45.483Z"}
+info: Server running at http://localhost:3000 {"timestamp":"2025-11-13T13:17:51.633Z"}
+info: Server running at http://localhost:3000 {"timestamp":"2025-11-13T13:17:58.814Z"}
+info: Server running at http://localhost:3000 {"timestamp":"2025-11-13T13:18:10.368Z"}
+info: Server running at http://localhost:3000 {"timestamp":"2025-11-13T13:19:16.693Z"}
+info: [Worker]-Memproses job: /Users/macbookpro/Documents/DEVELOPER/FRESH/FILE-SERVER/uploads/39f5ab1a3b3641bc0df7b07086761d24 {"timestamp":"2025-11-13T13:20:26.910Z"}
+info: [Worker]-Ekstraksi selesai: 3 file {"timestamp":"2025-11-13T13:20:27.573Z"}
+info: [Worker]-Job selesai: 6 {"timestamp":"2025-11-13T13:20:27.585Z"}
+info: [Worker]-Memproses job: /Users/macbookpro/Documents/DEVELOPER/FRESH/FILE-SERVER/uploads/da6310bc705b6bb4a9e7c6985c12c770 {"timestamp":"2025-11-13T13:20:51.068Z"}
+info: [Worker]-Ekstraksi selesai: 3 file {"timestamp":"2025-11-13T13:20:51.454Z"}
+info: [Worker]-Job selesai: 7 {"timestamp":"2025-11-13T13:20:51.456Z"}
+info: Server running at http://localhost:3000 {"timestamp":"2025-11-13T13:21:32.386Z"}
+info: Server running at http://localhost:3000 {"timestamp":"2025-11-13T13:23:21.513Z"}
+info: Server running at http://localhost:3000 {"timestamp":"2025-11-13T13:23:31.104Z"}
+info: [QueueService]-Job ekstraksi ditambahkan ke queue: /Users/macbookpro/Documents/DEVELOPER/FRESH/FILE-SERVER/uploads/57411e97a4ecffabb2231c8992d1dfe9 {"timestamp":"2025-11-13T13:23:38.194Z"}
+info: [Worker]-Memproses job: /Users/macbookpro/Documents/DEVELOPER/FRESH/FILE-SERVER/uploads/57411e97a4ecffabb2231c8992d1dfe9 {"timestamp":"2025-11-13T13:23:38.214Z"}
+info: [Worker]-Ekstraksi selesai: 3 file {"timestamp":"2025-11-13T13:23:38.458Z"}
+info: [Worker]-Job selesai: 8 {"timestamp":"2025-11-13T13:23:38.461Z"}
+info: [QueueService]-Job ekstraksi ditambahkan ke queue: /Users/macbookpro/Documents/DEVELOPER/FRESH/FILE-SERVER/uploads/d1410f096d9ea846eb59cb1dec499ee2 {"timestamp":"2025-11-13T13:45:22.597Z"}
+info: [Worker]-Memproses job: /Users/macbookpro/Documents/DEVELOPER/FRESH/FILE-SERVER/uploads/d1410f096d9ea846eb59cb1dec499ee2 {"timestamp":"2025-11-13T13:45:22.640Z"}
+info: [Worker]-Ekstraksi selesai: 3 file {"timestamp":"2025-11-13T13:45:22.993Z"}
+info: [Worker]-Job selesai: 9 {"timestamp":"2025-11-13T13:45:22.996Z"}
+info: [QueueService]-Job ekstraksi ditambahkan ke queue: /Users/macbookpro/Documents/DEVELOPER/FRESH/FILE-SERVER/uploads/6122262e7077ca1e5306e4f94de66520 {"timestamp":"2025-11-13T13:46:01.736Z"}
+info: [Worker]-Memproses job: /Users/macbookpro/Documents/DEVELOPER/FRESH/FILE-SERVER/uploads/6122262e7077ca1e5306e4f94de66520 {"timestamp":"2025-11-13T13:46:01.739Z"}
+info: [Worker]-Ekstraksi selesai: 3 file {"timestamp":"2025-11-13T13:46:02.260Z"}
+info: [Worker]-Job selesai: 10 {"timestamp":"2025-11-13T13:46:02.263Z"}
+info: [QueueService]-Job ekstraksi ditambahkan ke queue: /Users/macbookpro/Documents/DEVELOPER/FRESH/FILE-SERVER/uploads/1f2d836662d3ffe74e3afd2b59be42c8 {"timestamp":"2025-11-13T13:46:33.751Z"}
+info: [Worker]-Memproses job: /Users/macbookpro/Documents/DEVELOPER/FRESH/FILE-SERVER/uploads/1f2d836662d3ffe74e3afd2b59be42c8 {"timestamp":"2025-11-13T13:46:33.756Z"}
+info: [Worker]-Ekstraksi selesai: 3 file {"timestamp":"2025-11-13T13:46:34.313Z"}
+info: [Worker]-Job selesai: 11 {"timestamp":"2025-11-13T13:46:34.333Z"}
+info: File deleted: side-close-up-view-fruits-fruits-berries-with-leaves-board-citrus-fruits.jpg {"timestamp":"2025-11-13T13:47:38.362Z"}
+info: File deleted: side-close-up-view-fruits-fruits-berries-with-leaves-board-citrus-fruits_1763041522670.jpg {"timestamp":"2025-11-13T13:47:45.244Z"}
+info: File deleted: side-close-up-view-fruits-fruits-berries-with-leaves-board-citrus-fruits_1763041561886.jpg {"timestamp":"2025-11-13T13:47:53.659Z"}
+info: File deleted: side-close-up-view-fruits-fruits-berries-with-leaves-board-citrus-fruits_1763041593925.jpg {"timestamp":"2025-11-13T13:47:58.136Z"}
+info: File deleted: side-close-up-view-fruits-fruits-berries-with-leaves-board-citrus-fruits_1763040218278.jpg {"timestamp":"2025-11-13T13:48:08.187Z"}
+info: File deleted: side-close-up-view-fruits-fruits-berries-with-leaves-board-citrus-fruits_1763040051141.jpg {"timestamp":"2025-11-13T13:48:22.036Z"}
+info: [QueueService]-Job ekstraksi ditambahkan ke queue: /Users/macbookpro/Documents/DEVELOPER/FRESH/FILE-SERVER/uploads/6b18a5f880b06673efcd7d7fce7d9c42 {"timestamp":"2025-11-13T13:48:33.976Z"}
+info: [Worker]-Memproses job: /Users/macbookpro/Documents/DEVELOPER/FRESH/FILE-SERVER/uploads/6b18a5f880b06673efcd7d7fce7d9c42 {"timestamp":"2025-11-13T13:48:34.116Z"}
+info: [Worker]-Ekstraksi selesai: 3 file {"timestamp":"2025-11-13T13:48:34.480Z"}
+info: [Worker]-Job selesai: 12 {"timestamp":"2025-11-13T13:48:34.567Z"}
+info: [QueueService]-Job ekstraksi ditambahkan ke queue: /Users/macbookpro/Documents/DEVELOPER/FRESH/FILE-SERVER/uploads/e8e43cc9adcf963ae836743547b7e364 {"timestamp":"2025-11-13T13:49:31.925Z"}
+info: [Worker]-Memproses job: /Users/macbookpro/Documents/DEVELOPER/FRESH/FILE-SERVER/uploads/e8e43cc9adcf963ae836743547b7e364 {"timestamp":"2025-11-13T13:49:32.061Z"}
+info: [Worker]-Ekstraksi selesai: 3 file {"timestamp":"2025-11-13T13:49:32.637Z"}
+info: [Worker]-Job selesai: 13 {"timestamp":"2025-11-13T13:49:32.659Z"}
+info: [QueueService]-Job ekstraksi ditambahkan ke queue: /Users/macbookpro/Documents/DEVELOPER/FRESH/FILE-SERVER/uploads/dc47022626955e029598b572aaf37f2c {"timestamp":"2025-11-13T13:49:50.919Z"}
+info: [Worker]-Memproses job: /Users/macbookpro/Documents/DEVELOPER/FRESH/FILE-SERVER/uploads/dc47022626955e029598b572aaf37f2c {"timestamp":"2025-11-13T13:49:50.939Z"}
+info: [Worker]-Ekstraksi selesai: 3 file {"timestamp":"2025-11-13T13:49:51.419Z"}
+info: [Worker]-Job selesai: 14 {"timestamp":"2025-11-13T13:49:51.423Z"}
+info: [QueueService]-Job ekstraksi ditambahkan ke queue: /Users/macbookpro/Documents/DEVELOPER/FRESH/FILE-SERVER/uploads/705c38896c7254c7a086df0f5d232bd9 {"timestamp":"2025-11-13T13:55:45.298Z"}
+info: [Worker]-Memproses job: /Users/macbookpro/Documents/DEVELOPER/FRESH/FILE-SERVER/uploads/705c38896c7254c7a086df0f5d232bd9 {"timestamp":"2025-11-13T13:55:45.320Z"}
+info: [Worker]-Ekstraksi selesai: 3 file {"timestamp":"2025-11-13T13:55:46.109Z"}
+info: [Worker]-Job selesai: 15 {"timestamp":"2025-11-13T13:55:46.265Z"}
+info: [QueueService]-Job ekstraksi ditambahkan ke queue: /Users/macbookpro/Documents/DEVELOPER/FRESH/FILE-SERVER/uploads/af7d93c7f4e5297b49b459fd1fc070ed {"timestamp":"2025-11-13T13:56:22.670Z"}
+info: [Worker]-Memproses job: /Users/macbookpro/Documents/DEVELOPER/FRESH/FILE-SERVER/uploads/af7d93c7f4e5297b49b459fd1fc070ed {"timestamp":"2025-11-13T13:56:22.676Z"}
+info: [Worker]-Ekstraksi selesai: 3 file {"timestamp":"2025-11-13T13:56:23.120Z"}
+info: [Worker]-Job selesai: 16 {"timestamp":"2025-11-13T13:56:23.122Z"}
+info: File deleted: tshirt_1763042183092.png {"timestamp":"2025-11-13T14:05:51.379Z"}
+info: File deleted: sembako_1763042182801.png {"timestamp":"2025-11-13T14:05:55.932Z"}
+info: File deleted: sembako_1763042145400.png {"timestamp":"2025-11-13T14:06:04.101Z"}
+info: File deleted: side-close-up-view-fruits-fruits-berries-with-leaves-board-citrus-fruits_1763042145417.jpg {"timestamp":"2025-11-13T14:06:18.518Z"}
+info: File deleted: tshirt_1763042146081.png {"timestamp":"2025-11-13T14:06:23.261Z"}
+info: Server running at http://localhost:3000 {"timestamp":"2025-11-13T14:09:02.301Z"}
+info: [QueueService]-Job ekstraksi ditambahkan ke queue: /Users/macbookpro/Documents/DEVELOPER/FRESH/FILE-SERVER/uploads/a0df0696ab9592faa428463b31a2e74e {"timestamp":"2025-11-13T14:09:09.422Z"}
+info: [Worker]-Memproses job: /Users/macbookpro/Documents/DEVELOPER/FRESH/FILE-SERVER/uploads/a0df0696ab9592faa428463b31a2e74e {"timestamp":"2025-11-13T14:09:09.439Z"}
+error: [Worker]-Job gagal: 17 The "callback" argument must be of type function. Received type number (60000) {"code":"ERR_INVALID_ARG_TYPE","stack":"TypeError [ERR_INVALID_ARG_TYPE]: The \"callback\" argument must be of type function. Received type number (60000)\n    at setTimeout (node:timers:140:3)\n    at Worker.connection.connection [as processFn] (/Users/macbookpro/Documents/DEVELOPER/FRESH/FILE-SERVER/workers/zipExtractWorker.js:12:9)\n    at Worker.callProcessJob (/Users/macbookpro/Documents/DEVELOPER/FRESH/FILE-SERVER/node_modules/bullmq/dist/cjs/classes/worker.js:144:21)\n    at /Users/macbookpro/Documents/DEVELOPER/FRESH/FILE-SERVER/node_modules/bullmq/dist/cjs/classes/worker.js:512:43\n    at trace (/Users/macbookpro/Documents/DEVELOPER/FRESH/FILE-SERVER/node_modules/bullmq/dist/cjs/utils/index.js:259:16)\n    at Worker.trace (/Users/macbookpro/Documents/DEVELOPER/FRESH/FILE-SERVER/node_modules/bullmq/dist/cjs/classes/queue-base.js:153:34)\n    at Worker.processJob (/Users/macbookpro/Documents/DEVELOPER/FRESH/FILE-SERVER/node_modules/bullmq/dist/cjs/classes/worker.js:494:21)\n    at Worker.mainLoop (/Users/macbookpro/Documents/DEVELOPER/FRESH/FILE-SERVER/node_modules/bullmq/dist/cjs/classes/worker.js:274:41)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async Worker.run (/Users/macbookpro/Documents/DEVELOPER/FRESH/FILE-SERVER/node_modules/bullmq/dist/cjs/classes/worker.js:207:13)","timestamp":"2025-11-13T14:09:09.482Z"}
+info: File deleted: side-close-up-view-fruits-fruits-berries-with-leaves-board-citrus-fruits_1763042182803.jpg {"timestamp":"2025-11-13T14:09:15.587Z"}
+info: Server running at http://localhost:3000 {"timestamp":"2025-11-13T14:10:05.686Z"}
+info: Server running at http://localhost:3000 {"timestamp":"2025-11-13T14:10:15.553Z"}
+info: [QueueService]-Job ekstraksi ditambahkan ke queue: /Users/macbookpro/Documents/DEVELOPER/FRESH/FILE-SERVER/uploads/3b4c1dfc2a45aa66653f3cdc773854be {"timestamp":"2025-11-13T14:10:28.832Z"}
+info: [Worker]-Memproses job: /Users/macbookpro/Documents/DEVELOPER/FRESH/FILE-SERVER/uploads/3b4c1dfc2a45aa66653f3cdc773854be {"timestamp":"2025-11-13T14:10:28.850Z"}
+error: [Worker]-Job gagal: 18 The "callback" argument must be of type function. Received type number (60000) {"code":"ERR_INVALID_ARG_TYPE","stack":"TypeError [ERR_INVALID_ARG_TYPE]: The \"callback\" argument must be of type function. Received type number (60000)\n    at setTimeout (node:timers:140:3)\n    at exports.ExtractZipImagesService (/Users/macbookpro/Documents/DEVELOPER/FRESH/FILE-SERVER/services/zipService.js:44:5)\n    at async Worker.connection.connection [as processFn] (/Users/macbookpro/Documents/DEVELOPER/FRESH/FILE-SERVER/workers/zipExtractWorker.js:12:24)\n    at async /Users/macbookpro/Documents/DEVELOPER/FRESH/FILE-SERVER/node_modules/bullmq/dist/cjs/classes/worker.js:512:32","timestamp":"2025-11-13T14:10:29.207Z"}
+info: Server running at http://localhost:3000 {"timestamp":"2025-11-13T14:11:04.075Z"}

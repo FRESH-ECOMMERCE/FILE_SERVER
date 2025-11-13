@@ -6,6 +6,7 @@ const logger = require('./utils/logger');
 const uploadRoutes = require('./routes/uploadRoutes');
 const appConfigs = require('./configs/appConfigs');
 require('./models');
+require('./workers/zipExtractWorker');
 
 const app = express();
 const PORT = appConfigs.port;
