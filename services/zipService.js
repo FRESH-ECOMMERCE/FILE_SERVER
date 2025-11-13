@@ -1,6 +1,7 @@
 const fs = require('fs-extra');
 const AdmZip = require('adm-zip');
 const path = require('path');
+const { FileStorage } = require('../models');
 
 /**
  * Mengekstrak file zip dan menyimpan file gambar ke folder tujuan
@@ -38,12 +39,11 @@ exports.ExtractZipImagesService = async function (zipPath, extractDir = 'uploads
         const fileData = entry.getData();
         await fs.writeFile(targetPath, fileData);
 
-        savedFiles.push(fileName);
+        savedFiles.push({ name: fileName });
     }
 
     await fs.remove(zipPath);
+    await FileStorage.bulkCreate(savedFiles);
 
-    console.log('Saved files');
-    console.log(savedFiles);
     return savedFiles;
 };

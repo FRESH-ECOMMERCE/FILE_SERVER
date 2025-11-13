@@ -1,5 +1,6 @@
 const { Queue } = require('bullmq');
 const connection = require('../configs/redisConfig');
+const logger = require('../utils/logger');
 
 /**
  * Menambahkan job ekstraksi ZIP ke queue
@@ -11,5 +12,5 @@ const extractQueue = new Queue('extract-queue', { connection });
 
 exports.addExtractJob = async (zipPath, extractDir = 'uploads') => {
     await extractQueue.add('extract-zip', { zipPath, extractDir });
-    console.log(`✅ Job ekstraksi ditambahkan ke queue: ${zipPath}`);
+    logger.info(`[QueueService]-Job ekstraksi ditambahkan ke queue: ${zipPath}`);
 };
